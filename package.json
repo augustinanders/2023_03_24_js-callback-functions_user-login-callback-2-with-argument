@@ -1,0 +1,14 @@
+{
+  "name": "2023-03-24-js-callback-functions-user-login-callback-2-with-argument",
+  "version": "0.0.0-unreleased",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "lint": "npx eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "nf": {
+    "template": "html-css-js-static"
+  },
+  "keywords": []
+}
